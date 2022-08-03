@@ -10,7 +10,7 @@ In the project directory, you can run:
 
 ### `npm start`
 
-Actual checkForBingo algo is found in the BingoAlgoAnswer
+Actual checkForBingo algo is found in the BingoAlgoAnswer.tsx file
 
 
 
